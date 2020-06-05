@@ -1,12 +1,11 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+PROYECTO DE LA ASIGNATURA DE ESTRUCTURA DE DATOS
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: TDA SIMBOL TABLE
+PURPOSE OF PROJECT: DESARROLLAR UN TDA DE UN SIMBOL TABLE APARTIR DE ARREGLOS PARALELOS
+VERSION or DATE: 
 HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+AUTHORS: GARCIA GARCIA JOSE ANGEL
+USER INSTRUCTIONS: CREAR INSTANCIAS DE LA CLASE STArray.
+                   PARA VER LA PRUEBA DE USO, EJECUTE EL MAIN DE LA CLASE TESTO1
